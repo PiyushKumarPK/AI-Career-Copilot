@@ -20,16 +20,15 @@ It uses Groq's LLaMA model to read your resume and give you a honest breakdown â
 
 | Login | Signup |
 |-------|--------|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
+| ![Login](screenshots/1.JPG) | ![Signup](screenshots/2.JPG) |
 
-| Dashboard | Results |
+| Dashboard | Analyze |
 |-----------|---------|
-| ![Dashboard](screenshots/dashboard.png) | ![Results](screenshots/results.png) |
+| ![Dashboard](screenshots/5.JPG) | ![Analyze](screenshots/6.JPG) |
 
-| History |
-|---------|
-| ![History](screenshots/history.png) |
-
+| Results | History |
+|---------|---------|
+| ![Results](screenshots/7.JPG) | ![History](screenshots/10.JPG) |
 ---
 
 ## Tech used
